@@ -1,0 +1,48 @@
+{
+    "skills": [
+        {
+            "skill": "Java",
+            "rating": 90
+        },
+        {
+            "skill": "Javascript",
+            "rating": 70
+        },
+        {
+            "skill": "Python",
+            "rating": 70
+        },
+        {
+            "skill": "Git",
+            "rating": 90
+        },
+        {
+            "skill": "JIRA",
+            "rating": 90
+        },
+        {
+            "skill": "MySQL",
+            "rating": 70
+        },
+        {
+            "skill": "React.js",
+            "rating": 80
+        },
+        {
+            "skill": "Next.js",
+            "rating": 80
+        },
+        {
+            "skill": "FIX Protocol",
+            "rating": 90
+        },
+        {
+            "skill": "Securities Trading",
+            "rating": 65
+        },
+        {
+            "skill": "AI Behavioral Analysis",
+            "rating": 80
+        }
+    ]
+}
