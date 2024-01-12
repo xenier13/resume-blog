@@ -1,7 +1,7 @@
 ---
-title: 'Software Engineer, Goldman Sachs'
-startDate: '2021-03-01'
-endDate: '2023-05-01'
+title: 'FIX Integration Specialist, Goldman Sachs'
+startDate: '2021-07-05'
+endDate: '2023-01-27'
 link: ''
 ref: ''
 ---
