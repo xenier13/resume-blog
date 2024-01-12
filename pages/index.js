@@ -44,22 +44,27 @@ export default function Home({ allPostsData }) {
         <h2 className={utilStyles.headingLg}>Education</h2>
         <p className={utilStyles.headingSm}>Bachelor of Arts in Computer Science</p>
         <p className={utilStyles.headingSm}> 
-        <Link className="hover:text-orange-400" href={`https://www.uri.edu/`}>University of Rhode Island</Link>, August 2016
+        <Link className="hover:text-orange-400" href={`https://www.uri.edu/`}><u>University of Rhode Island</u></Link>, August 2016
         </p>
       </section>
 
+      <br/>
+
       <section>
-      <h2 className={utilStyles.headingLg}>
-      <Link className="hover:text-orange-400" href={`https://github.com/xenier13`}>Github</Link>
-      </h2>
+      <h2 className={utilStyles.headingLg}> Github</h2>
+        <p className={utilStyles.headingSm}>
+          My Github account can be found <Link className="hover:text-orange-400" href={`https://github.com/xenier13`}><u>here</u></Link>.
+        </p>
       </section>
+
+      <br/>
 
       <section className={`${utilStyles.headingSm} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Job Experience</h2>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, startDate, endDate, title }) => (
             <li className={utilStyles.listItem} key={id}>
-              <Link className="hover:text-orange-400" href={`/posts/${id}`}>{title}</Link>
+              <Link className="hover:text-orange-400" href={`/posts/${id}`}><u>{title}</u></Link>
               <br />
               <small className={utilStyles.lightText}>
                 <Date dateString={startDate} /> - <Date dateString={endDate} />
