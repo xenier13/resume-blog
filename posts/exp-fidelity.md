@@ -20,4 +20,4 @@ In early 2021, during the peak of the COVID pandemic, I made the decision to ste
 
 -Anthony Chiusano, Senior Director, Middle Office Outsourcing
 
-[Original Letter](../public/MasonFrancisLOR.docx)
+[Original Letter](../public/MasonFrancisLOR.docx) (Right click and save as)
