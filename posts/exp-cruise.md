@@ -14,8 +14,6 @@ Achievements include:
  - Formulated novel mitigation strategies for failure modes, actively contributing to ongoing mitigation plans.
  - Collaborated with team members to identify potential points of failure and devised corresponding failure modes.
 
-Unfortunately, in December 2023, I was released due to company downsizing.
-
 "Mason consistently demonstrated exceptional dedication, expertise, and a proactive problem-solving approach. One remarkable aspect of his contribution was his initiative in learning new skills and tools autonomously—without specific guidance, he willingly jumped into new endeavors. Mason's proactive attitude extended to his daily work, making him the best performer consistently. Furthermore, his ability to think outside the box was particularly noteworthy when tackling novel issues. A collaborative team player, Mason not only surpassed targets with a results-driven mindset but also contributed significantly to our continuous improvement."
 
 -Marcello Rusciano, Troubleshooting Supervisor - [LinkedIn](https://www.linkedin.com/in/marcello-rusciano-35786b162/)
