@@ -30,7 +30,6 @@ export default function Post({ postData }) {
         <h1 className={utilStyles.headingXl}>{postData.title}</h1>
         <div className={utilStyles.lightText}>
           <Date dateString={postData.startDate} /> - <Date dateString={postData.endDate} />
-          {/* { postData.currentEmployer === 'true' ?  '- Present'  : '-' + <Date dateString={postData.endDate} /> } */}
         </div>
         <div class='prose lg:prose-xl' dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
       </article>
