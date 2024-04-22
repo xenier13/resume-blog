@@ -62,12 +62,12 @@ export default function Home({ allPostsData }) {
       <section className={`${utilStyles.headingSm} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Job Experience</h2>
         <ul className={utilStyles.list}>
-          {allPostsData.map(({ id, startDate, endDate, title }) => (
+          {allPostsData.map(({ id, startDate, endDate, title, currentEmployer }) => (
             <li className={utilStyles.listItem} key={id}>
               <Link className="hover:text-orange-400" href={`/posts/${id}`}><u>{title}</u></Link>
               <br />
               <small className={utilStyles.lightText}>
-                <Date dateString={startDate} /> - <Date dateString={endDate} />
+                <Date dateString={startDate} /> - { currentEmployer == "true" ? 'Present'  : <Date dateString={endDate} /> }
               </small>
             </li>
 

@@ -1,7 +1,7 @@
 ---
 title: 'Troubleshooting Expert, Cruise LLC'
 startDate: '2023-09-11'
-endDate: '2024-04-01'
+endDate: '0101-01-01'
 link: ''
 ref: ''
 currentEmployer: 'true'
