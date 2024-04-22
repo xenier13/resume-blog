@@ -1,7 +1,7 @@
 ---
 title: 'Troubleshooting Expert, Cruise LLC'
 startDate: '2023-09-11'
-endDate:
+endDate: 'Present'
 link: ''
 ref: ''
 ---
