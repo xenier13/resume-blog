@@ -67,7 +67,7 @@ export default function Home({ allPostsData }) {
               <Link className="hover:text-orange-400" href={`/posts/${id}`}><u>{title}</u></Link>
               <br />
               <small className={utilStyles.lightText}>
-                <Date dateString={startDate} /> { postData.currentEmployer === 'true' ?  '- Present'  : '-' + <Date dateString={postData.endDate} /> }
+                {/* <Date dateString={startDate} /> { postData.currentEmployer === 'true' ?  '- Present'  : '-' + <Date dateString={postData.endDate} /> } */}
               </small>
             </li>
 
