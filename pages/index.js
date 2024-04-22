@@ -75,25 +75,26 @@ export default function Home({ allPostsData }) {
         </ul>
       </section>
 
-      <section 
+    
+      {/* <section
         className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}
       >
         <h2 className={utilStyles.headingLg}>Skills</h2>
         <ul className={utilStyles.list}>
           {Skills.skills
-          .sort((a,b) => {a.rating > b.rating ? 1 : -1;})
-          .map((item, i) =>
-          <li key={i}>
-          <br />
-            <div className="text-black font-serif font-bold">{item.skill}</div>
-            <div>
-              <Progress className="text-base text-center" progress={item.rating} color="indigo" size="xl" />
-            </div>
-          </li>
-          )}
+            .sort((a, b) => { a.rating > b.rating ? 1 : -1; })
+            .map((item, i) =>
+              <li key={i}>
+                <br />
+                <div className="text-black font-serif font-bold">{item.skill}</div>
+                <div>
+                  <Progress className="text-base text-center" progress={item.rating} color="indigo" size="xl" />
+                </div>
+              </li>
+            )}
         </ul>
-      </section>
-
+      </section> */}
+    
     </Layout>
   );
 }
