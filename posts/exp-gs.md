@@ -4,6 +4,7 @@ startDate: '2021-07-05'
 endDate: '2023-01-27'
 link: ''
 ref: ''
+currentEmployer: 'false'
 ---
 
 Contracted through Infosys, LLC, and based in Salt Lake City, UT, I joined the FIX Integration team to seamlessly integrate new FIX Protocol trading lines onto Goldman's trading platform. During my 2+ years in the position, I acquired extensive knowledge in scripting, FIX, and large corporate software stacks.

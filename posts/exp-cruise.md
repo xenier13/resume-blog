@@ -1,9 +1,10 @@
 ---
 title: 'Troubleshooting Expert, Cruise LLC'
 startDate: '2023-09-11'
-endDate: ''
+endDate: '0001-01-01'
 link: ''
 ref: ''
+currentEmployer: 'true'
 ---
 
 Contracted through Adecco, based in Phoenix, AZ, I was a troubleshooter for various AV-related technical and behavioral issues.

@@ -4,6 +4,7 @@ startDate: '2017-07-01'
 endDate: '2021-02-01'
 link: ''
 ref: ''
+currentEmployer: 'false'
 ---
 
 While at Fidelity Investments, I played a role in closing orphaned and decommissioned accounts as part of National Financial Services Middle Office.
