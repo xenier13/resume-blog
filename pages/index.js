@@ -61,9 +61,11 @@ export default function Home({ allPostsData }) {
       <br/>
 
       <section className={`${utilStyles.headingSm} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Job Experience</h2>
+        <h2 className={utilStyles.headingLg}>Experience</h2>
         <ul className={utilStyles.list}>
-          {allPostsData.map(({ id, startDate, endDate, title, currentEmployer }) => (
+          {allPostsData
+          .sort((a, b) => a.endDate < b.endDate)
+          .map(({ id, startDate, endDate, title, currentEmployer }) => (
             <li className={utilStyles.listItem} key={id}>
               <Link className="hover:text-orange-400" href={`/posts/${id}`}><u>{title}</u></Link>
               <br />
@@ -71,7 +73,6 @@ export default function Home({ allPostsData }) {
                 <Date dateString={startDate} /> - { currentEmployer == "true" ? 'Present'  : <Date dateString={endDate} /> }
               </small>
             </li>
-
           ))}
         </ul>
       </section>

@@ -7,7 +7,7 @@ ref: ''
 currentEmployer: 'false'
 ---
 
-Contracted through Infosys, LLC, and based in Salt Lake City, UT, I joined the FIX Integration team to seamlessly integrate new FIX Protocol trading lines onto Goldman's trading platform. During my 2+ years in the position, I acquired extensive knowledge in scripting, FIX, and large corporate software stacks.
+#### Contracted through Infosys, LLC, and based in Salt Lake City, UT, I joined the FIX Integration team to seamlessly integrate new FIX Protocol trading lines onto Goldman's trading platform. During my 18 months in the position, I acquired extensive knowledge in scripting, FIX, and large corporate software stacks.
 
 Notable achievements include:
 
@@ -17,8 +17,7 @@ Notable achievements include:
 
 In May 2023, I voluntarily stepped down from my position as I desired to relocate from Salt Lake City, UT.
 
-Supervisor: Olukoya Dehinsilu, Vice President, Fix Integration - [LinkedIn](https://www.linkedin.com/in/olukoya/)
+#### Supervisor: Olukoya Dehinsilu, Vice President, Fix Integration - [LinkedIn](https://www.linkedin.com/in/olukoya/)
 
-Phone: +17327897423 (Mobile)
-
-Email: olu.dehinsilu@gmail.com
+###### Phone: +17327897423 (Mobile)
+###### Email: <olu.dehinsilu@gmail.com>
