@@ -34,16 +34,17 @@ export default function Home({ allPostsData }) {
       <br/>
 
       <section className={utilStyles.headingSm}>
-        <p>I am Mason Francis, a software engineer with aspirations in web development.</p>
-        <p>I'm prepared to contribute my distinctive value and perspective to your upcoming deployable applications or projects.</p>
+        <p>I am dedicated to advancing the autonomous vehicle industry, aiming to leverage my expertise in maintenance, troubleshooting, and issue reporting to drive its evolution towards safer, more reliable, and environmentally friendly transportation. </p>
+        <br/>
+        <p>With flexible availability for all shifts and locations, I am eager to embrace customer-facing roles, contributing to the industry's growth and acceptance.</p>
       </section>
 
       <br/>
 
       <section>
         <h2 className={utilStyles.headingLg}>Education</h2>
-        <p className={utilStyles.headingSm}>Bachelor of Arts in Computer Science</p>
-        <p className={utilStyles.headingSm}> 
+        <p  className={utilStyles.headingSm}>Bachelor of Arts in Computer Science</p>
+        <p  className={utilStyles.headingSm}> 
         <Link className="hover:text-orange-400" href={`https://www.uri.edu/`}><u>University of Rhode Island</u></Link>, August 2016
         </p>
       </section>
